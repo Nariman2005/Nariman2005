@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Developer, Lifelong Learner & Tech Enthusiast</h3>
 
 💡 Constantly exploring new technologies and pushing my limits.  
-🌱 Currently diving into **DevOps** to bridge the gap between development and operations.  
+🌱 Currently diving into **DevOps**  
 🏅 Passionate about **programming**, problem-solving, and building impactful solutions.  
 📫 Feel free to reach out: **nariman.adel2005@hotmail.com**  
 🚀 Always excited to collaborate and learn from fellow tech enthusiasts!  

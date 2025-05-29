@@ -4,7 +4,7 @@
 💡 Constantly exploring new technologies and pushing my limits.  
 🌱 Currently diving into **DevOps**  
 🏅 Passionate about **programming**, problem-solving, and building impactful solutions.  
-📫 Feel free to reach out: **nariman.adel2005@hotmail.com**  
+📫 Feel free to reach out: **nariman.adel2005@gmail.com**  
 🚀 Always excited to collaborate and learn from fellow tech enthusiasts!  
 
 
